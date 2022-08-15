@@ -1,0 +1,14 @@
+# RMX2020-user 10 QP1A.190711.020 1580942954 release-keys
+- manufacturer: 
+- platform: mt6768mt6768
+- codename: RMX2020
+- flavor: RMX2020-eng
+- release: 12
+- id: AOSP.MASTER
+- incremental: eng.sartha.20220815.081504
+- tags: test-keys
+- fingerprint: google/coral/coral:12/SQ3A.220605.009.A1/8643238:user/release-keys
+- is_ab: false
+- brand: realme
+- branch: RMX2020-user-10-QP1A.190711.020-1580942954-release-keys
+- repo: realme_rmx2020_dump3633
